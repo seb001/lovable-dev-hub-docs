@@ -1,5 +1,7 @@
 # Website
 
+<img width="1408" height="768" alt="ArchitectureTechniqueDetaillee" src="https://github.com/user-attachments/assets/419dde8a-ea83-4550-8504-d39ccfd386ae" />
+
 This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
 
 ## Installation
